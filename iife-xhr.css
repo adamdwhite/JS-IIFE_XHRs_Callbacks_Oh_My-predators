@@ -1,0 +1,21 @@
+body {
+    font-family: 'Arvo';
+}
+
+#meatEaters {
+    background-color: darkred;
+    color: whitesmoke;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+#plantEaters {
+    background-color: darkolivegreen;
+    color: whitesmoke;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+h3 {
+    color: slategray;
+}
